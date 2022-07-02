@@ -1,0 +1,4 @@
+fastbook
+folium==0.2.1
+voila
+jupyter serverextension enable --sys-prefix voila
